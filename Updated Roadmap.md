@@ -76,7 +76,7 @@
 - Exclusive Releases & Collabs Powered by $EC
 
 ### Creative Services Marketplace
-On-Chain Marketplace for Producers, Mixers, and Creative Services
+On-Chain Marketplace for artists and services
 AI-Powered Cover Art Generator for Artists
 Verified Providers via NFT Licensing Badges
 
