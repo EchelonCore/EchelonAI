@@ -13,8 +13,8 @@
 - **AI-Driven Music Tools**  
   Automated mixing, mastering, and analytics.
 
-- **Artist Collaboration Network**  
-  Real-time collaboration, video chats, and a creative marketplace.
+- **Artist Collaboration Network**
+  A live creator hub where artists can connect, set their status, showcase work, video chat, and get hired for verses, beats, or production—all on-chain.
 
 - **Community Governance**  
   Platform shaped by DAO-driven decisions and staking-based voting.
